@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:air",
+    "minecraft:water",
+    "minecraft:cobweb",
+    "#minecraft:banners",
+    "#minecraft:buttons",
+    "#minecraft:doors",
+    "#minecraft:rails",
+    "#minecraft:saplings",
+    "minecraft:ladder",
+    "minecraft:torch",
+    "minecraft:oak_trapdoor",
+    "minecraft:acacia_trapdoor",
+    "minecraft:spruce_trapdoor",
+    "minecraft:birch_trapdoor",
+    "minecraft:jungle_trapdoor",
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:structure_void",
+    "minecraft:barrier",
+    "minecraft:iron_bars"
+  ]
+}

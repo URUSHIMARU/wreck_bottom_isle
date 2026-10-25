@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "block/white_wool"
+    },
+    "overrides": [
+    	{"predicate": {"custom_model_data": 0}, "model": "block/white_wool"},
+        {"predicate": {"custom_model_data": 1}, "model": "item/boss1/body"}
+    ]
+}
